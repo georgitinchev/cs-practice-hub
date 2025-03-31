@@ -15,5 +15,5 @@ Each exercise is organized by language in its respective directory
 
 ## Notes
 
-This is a private repository intended for personal learning.  
+This is a repository intended for personal learning.  
 All solutions reflect my own work and problem-solving process.
